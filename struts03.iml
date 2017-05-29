@@ -15,6 +15,15 @@
       </configuration>
       <facet type="Struts2" name="Struts 2">
         <configuration>
+          <fileset id="s2fileset" name="My Fileset " removed="false">
+            <file>file://$MODULE_DIR$/src/main/java/contenes/constant.xml</file>
+            <file>file://$MODULE_DIR$/src/main/java/action/data.xml</file>
+            <file>file://$MODULE_DIR$/src/main/java/struts.xml</file>
+            <file>file://$MODULE_DIR$/src/main/java/type/type.xml</file>
+            <file>file://$MODULE_DIR$/src/main/java/fileUpload/upload.xml</file>
+            <file>jar://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.20.1/struts2-core-2.3.20.1.jar!/struts-default.xml</file>
+            <file>file://$MODULE_DIR$/src/main/java/interceptorAction/interceptor.xml</file>
+          </fileset>
           <propertiesKeys disabled="false" />
         </configuration>
       </facet>

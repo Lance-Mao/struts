@@ -8,4 +8,5 @@
    <include file="action/data.xml"></include>
    <include file="type/type.xml"></include>
    <include file="fileUpload/upload.xml"></include>
+   <include file="interceptorAction/interceptor.xml"></include>
 </struts>
